@@ -204,7 +204,7 @@
 
 
     					<a class="btn btn-success text-white" target="_blank" href="${meal.meals[0].strSource}">Source</a>
-    					<a class="btn btn-danger text-white" target="_blank" href="${meal.meals[0].strYoutube}">Youtub</a>
+    					<a class="btn btn-danger text-white" target="_blank" href="${meal.meals[0].strYoutube}">YouTube</a>
     				</div>`
       $("#homedescMeal").html(cartona);
       $("#tags").html(tagsStr);
